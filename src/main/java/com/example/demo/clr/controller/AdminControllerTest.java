@@ -32,6 +32,7 @@ public class AdminControllerTest implements CommandLineRunner {
     @Override
     public void run(String... args) {
 
+
         System.out.print(AppArtUtils.ROUND_5);
 
         HttpHeaders headers = new HttpHeaders();
